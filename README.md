@@ -1,9 +1,5 @@
-Below is the complete text you can copy and paste into your GitHub README. This version includes dynamic activity widgets that update automatically, giving your profile a lively, chat-like appearance.
-
----
-
 # Michael Ojiakor  
-**Android Developer | Software Engineer**
+**Android Developer**
 
 I’m a versatile Android Developer with strong expertise in Kotlin and Java. I design and develop innovative mobile solutions with a focus on clean, user-centric experiences. I leverage modern tools like Firebase, SQLite, and Jetpack Compose to build scalable, high-performance apps.
 
@@ -54,5 +50,3 @@ nicholausmichael51@gmail.com • [LinkedIn](http://www.linkedin.com/in/michael-o
 Lagos, Nigeria
 
 ---
-
-Just copy the above text and paste it into your `README.md` file in the repository named exactly after your GitHub username. Enjoy your new, engaging profile!
