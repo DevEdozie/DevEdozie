@@ -1,3 +1,7 @@
+Below is the complete text you can copy and paste into your GitHub README. This version includes dynamic activity widgets that update automatically, giving your profile a lively, chat-like appearance.
+
+---
+
 # Michael Ojiakor  
 **Android Developer | Software Engineer**
 
@@ -37,6 +41,18 @@ I’m a versatile Android Developer with strong expertise in Kotlin and Java. I 
 
 ---
 
+## Activity
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MichaelOjiakor&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MichaelOjiakor&theme=github)](https://git.io/streak-stats)
+
+---
+
 **Let’s Connect:**  
 nicholausmichael51@gmail.com • [LinkedIn](http://www.linkedin.com/in/michael-ojiakor)  
 Lagos, Nigeria
+
+---
+
+Just copy the above text and paste it into your `README.md` file in the repository named exactly after your GitHub username. Enjoy your new, engaging profile!
