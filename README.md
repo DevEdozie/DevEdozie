@@ -37,16 +37,7 @@ I’m a versatile Android Developer with strong expertise in Kotlin and Java. I 
 
 ---
 
-## Activity
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MichaelOjiakor&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MichaelOjiakor&theme=github)](https://git.io/streak-stats)
-
----
-
 **Let’s Connect:**  
 nicholausmichael51@gmail.com • [LinkedIn](http://www.linkedin.com/in/michael-ojiakor)  
 Lagos, Nigeria
 
----
