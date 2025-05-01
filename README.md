@@ -30,6 +30,7 @@ I’m a versatile Android Developer with strong expertise in Kotlin and Java. I 
 ## Notable Projects
 
 - **BankTrack:** Secure NFC-based app for managing and sharing bank account details.
+-  **Chatly:** Built a real-time chat app using Jetpack Compose with a modern and responsive UI.
 - **SketchCrew:** Real-time collaborative drawing application with integrated in-app chat.
 - **ElectroVerse:** Feature-rich e-commerce app with cart, wishlist, and order history.
 - **WorkTeams:** Task management solution for efficient project tracking.
