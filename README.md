@@ -1,7 +1,7 @@
 # Michael Ojiakor  
 **Mobile Developer (Android & Cross-Platform)**  
 
-I am a versatile Mobile Developer specializing in **Android and cross-platform technologies (KMP, CMP, Flutter)** with expertise in **Kotlin, Java, and Dart**. I focus on designing and building scalable, user-centric mobile applications using modern tools like **Firebase, Room, Retrofit, and Jetpack Compose**. I’m passionate about creating seamless user experiences, optimizing performance, and developing apps that solve real-world problems.
+Versatile Mobile Developer specializing in Android and cross-platform technologies (KMP, CMP, Flutter), with expertise in Kotlin, Java, and Dart. Skilled in building scalable, user-focused applications and integrating robust backends with Firebase and REST APIs. Known for delivering innovative solutions that enhance user experience, with proven success in contributing to apps surpassing 10k+ downloads.
 
 ---
 
