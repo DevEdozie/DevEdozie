@@ -1,44 +1,49 @@
 # Michael Ojiakor  
-**Android Developer**
+**Mobile Developer (Android & Cross-Platform)**  
 
-I’m a versatile Android Developer with strong expertise in Kotlin and Java. I design and develop innovative mobile solutions with a focus on clean, user-centric experiences. I leverage modern tools like Firebase, SQLite, and Jetpack Compose to build scalable, high-performance apps.
-
----
-
-## Key Skills
-
-- **Android Development:** Kotlin, Java, Android Studio, MVVM, Jetpack Compose
-- **UI/UX Design:** Figma, Material Design, Custom Views
-- **Data & Networking:** Firebase (Realtime, Firestore, Authentication, Cloud Messaging, Storage), SQLite, Room, Retrofit, REST APIs, JSON Parsing
-- **Other Technologies:** NFC technology, Kotlin Coroutines, Git/GitHub, Unit Testing, Agile methodologies
+I am a versatile Mobile Developer specializing in **Android and cross-platform technologies (KMP, CMP, Flutter)** with expertise in **Kotlin, Java, and Dart**. I focus on designing and building scalable, user-centric mobile applications using modern tools like **Firebase, Room, Retrofit, and Jetpack Compose**. I’m passionate about creating seamless user experiences, optimizing performance, and developing apps that solve real-world problems.
 
 ---
 
-## Professional Highlights
+## **Key Skills**
 
-- **Mobile Developer Intern at Sir Mish Limited**  
-  Revamped mobile apps, driving over 10k downloads through improved UI/UX and effective feature integration with Firebase and in-app functionalities.
+- **Mobile Development:** Kotlin, Java, Dart, Jetpack Compose, Android View System (XML), Kotlin Multiplatform (KMP), Compose Multiplatform (CMP), Flutter  
+- **UI/UX Design:** Figma, Material Design, Custom Views  
+- **Data & Networking:** Firebase (Realtime, Firestore, Authentication, Cloud Messaging, Storage), Room, Retrofit, Ktor, SQLite, Dio (Flutter HTTP Client), Hive, SharedPreferences (Flutter), REST APIs, JSON Parsing  
+- **State Management (Flutter):** Provider, Riverpod  
+- **Other Technologies:** NFC technology, Kotlin Coroutines, Git/GitHub, Unit Testing, Agile methodologies  
+
+---
+
+## **Professional Highlights**
+
+- **Mobile Developer at Zavanoq Tech Solutions**  
+  Developing a **Virtual Top-Up (VTU) application** using Jetpack Compose and MVVM architecture, focusing on wallet funding, data/cable services, and transaction history.  
+
+- **Mobile Developer – Contractor at Klica Technologies**  
+  Collaborated on revamping the **One Sitting 2025 CBT app**, improving UI/UX and navigation, contributing to **10k+ downloads**. Integrated Firebase Firestore, push notifications, and in-app features.  
 
 - **Mobile Developer at HNG 11 Internship**  
-  Led a team to create innovative apps, including an NFC-based contact-sharing app and a collaborative drawing tool, with real-time data synchronization and in-app chat features.
+  Contributed to NFC-based contact-sharing apps and **real-time collaborative drawing apps**, implementing **real-time data sync** with Firebase Realtime Database.  
 
 - **Google Africa Developers Scholarship**  
-  Completed intensive training in Android development, mastering fundamentals from UI design to asynchronous programming and robust architectural practices.
+  Completed intensive Android development training, mastering UI design, asynchronous programming, MVVM, and Firebase.
 
 ---
 
-## Notable Projects
+## **Notable Projects**
 
-- **BankTrack:** Secure NFC-based app for managing and sharing bank account details.
--  **Chatly:** Built a real-time chat app using Jetpack Compose with a modern and responsive UI.
-- **SketchCrew:** Real-time collaborative drawing application with integrated in-app chat.
-- **ElectroVerse:** Feature-rich e-commerce app with cart, wishlist, and order history.
-- **WorkTeams:** Task management solution for efficient project tracking.
-- **Cheta:** A minimalistic, user-friendly note-taking app.
+- **ChatApp:** Real-time chat app using Jetpack Compose, Firebase Authentication, Firestore, and Room caching.   
+- **BankTrack:** Secure NFC-based app for managing and sharing bank account details.  
+- **SketchCrew:** Real-time collaborative drawing application with integrated in-app chat.  
+- **ElectroVerse:** Feature-rich e-commerce app with cart, wishlist, and order history.  
+- **WorkTeams:** Task management solution for efficient project tracking.  
+- **Cheta:** A minimalistic, user-friendly note-taking app.  
 
 ---
 
-**Let’s Connect:**  
-nicholausmichael51@gmail.com • [LinkedIn](http://www.linkedin.com/in/michael-ojiakor)  
-Lagos, Nigeria
+## **Let’s Connect**
 
+📧 **nicholausmichael51@gmail.com**  
+🔗 [**LinkedIn**](http://www.linkedin.com/in/michael-ojiakor)  
+📍 **Lagos, Nigeria**
