@@ -44,6 +44,6 @@ Versatile Mobile Developer specializing in Android and cross-platform technologi
 
 ## **Let’s Connect**
 
-📧 **nicholausmichael51@gmail.com**  
+📧 **michaelojiakor756@gmail.com**  
 🔗 [**LinkedIn**](http://www.linkedin.com/in/michael-ojiakor)  
 📍 **Lagos, Nigeria**
